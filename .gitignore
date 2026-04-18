@@ -2,3 +2,5 @@ venv
 allure-report
 allure-results
 browser-state.json
+.idea
+__pycache__
